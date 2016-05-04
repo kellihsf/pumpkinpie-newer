@@ -4,5 +4,3 @@
 [![Stories in QA](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=QA test&title=QA)](http://waffle.io/kellihsf/pumpkinpie)
 [![Throughput Graph](https://graphs.waffle.io/kellihsf/Test-folder-2/throughput.svg)](https://waffle.io/kellihsf/Test-folder-2/metrics)
 
-
-extra info, will delete soon
