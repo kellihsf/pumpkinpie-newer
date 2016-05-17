@@ -7,5 +7,3 @@
 chocolate pie?
 
 ^ yaaas!
-
-too much info here perhaps?
