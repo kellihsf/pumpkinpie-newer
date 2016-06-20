@@ -23,5 +23,3 @@ more pie pics coming below, pls standby.
 dey not here Ted.
 
 just another test to go here!
-
-meh
