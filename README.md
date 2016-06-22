@@ -21,5 +21,3 @@ need more pie pics!
 more pie pics coming below, pls standby.
 
 dey not here Ted.
-
-more stuff for this 
