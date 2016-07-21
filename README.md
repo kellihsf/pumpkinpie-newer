@@ -1,7 +1,7 @@
 # pumpkinpie
 [![Stories in Ready](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=ready&title=Ready)](http://waffle.io/kellihsf/pumpkinpie)
 [![Stories in In Progress](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=In Progress&title=In Progress)](http://waffle.io/kellihsf/pumpkinpie)
-[![Stories in QA](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=QA test&title=QA test)](http://waffle.io/kellihsf/pumpkinpie)
+[![Stories in Bug](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=bug test&title=bug a boo)](http://waffle.io/kellihsf/pumpkinpie)
 [![Throughput Graph](https://graphs.waffle.io/kellihsf/pumpkinpie/throughput.svg)](https://waffle.io/kellihsf/pumpkinpie/metrics/throughput)
 
 chocolate pie?
