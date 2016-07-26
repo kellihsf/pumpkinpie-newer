@@ -30,6 +30,4 @@ Less words, more pie.
 
 pie pie pie pie pie. PIE.
 
-Add a new pic next time pwease. 
-
-testing the milestone PR combo  
+test for column label 
