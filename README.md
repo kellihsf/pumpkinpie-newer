@@ -29,5 +29,3 @@ another pie pic will go below.
 Less words, more pie. 
 
 pie pie pie pie pie. PIE.
-
-will need more pie pics
