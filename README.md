@@ -29,9 +29,3 @@ another pie pic will go below.
 Less words, more pie. 
 
 pie pie pie pie pie. PIE.
-
-This is all about pie. 
-
-PR test
-
-test test test 
