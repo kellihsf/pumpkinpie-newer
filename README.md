@@ -28,4 +28,4 @@ another pie pic will go below.
 
 Less words, more pie.
 
-extra pie
+guess what? pumpkin pie is.. GROSS
