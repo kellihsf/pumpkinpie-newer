@@ -14,16 +14,6 @@ uh si!
 
 ![screen shot 2016-05-23 at 1 05 41 pm](https://cloud.githubusercontent.com/assets/4775572/15481334/283055ee-20e7-11e6-82d5-893c4831fc85.png)
 
-soon there shall be all the pies on here. no gross ones though.
-
-need more pie pics!
-
-more pie pics coming below, pls standby.
-
-dey not here Ted.
-
-another pie pic will go below.
-
 ![pie](https://cloud.githubusercontent.com/assets/4775572/16343259/4db13c8c-39f3-11e6-84aa-063db8a7f697.jpg)
 
 guess what? pumpkin pie is.. GROSS
