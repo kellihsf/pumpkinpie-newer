@@ -26,4 +26,4 @@ another pie pic will go below.
 
 ![pie](https://cloud.githubusercontent.com/assets/4775572/16343259/4db13c8c-39f3-11e6-84aa-063db8a7f697.jpg)
 
-guess what? pumpkin pie is.. GROSS
+guess what? pumpkin pie is.. GROSS. if you add some more information that's helpful, yeahhhh that'd be great. 
