@@ -3,7 +3,7 @@
 [![Stories in In Progress](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=In Progress&title=In Progress)](http://waffle.io/kellihsf/pumpkinpie)
 [![Stories in Review](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=review&title=review)](http://waffle.io/kellihsf/pumpkinpie)
 ![badge](https://img.shields.io/waffle/label/kellihsf/pumpkinpie/in%20progress.svg)
-![flat badge](https://img.shields.io/waffle/label/kellihsf/pumpkinpie/ready.svg)
+![flat badge](https://img.shields.io/waffle/label/kellihsf/pumpkinpie/ready.svg?style=flat-square)
 
 [![Throughput Graph](https://graphs.waffle.io/kellihsf/pumpkinpie/throughput.svg)](https://waffle.io/kellihsf/pumpkinpie/metrics/throughput)
 
