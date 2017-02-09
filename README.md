@@ -1,5 +1,4 @@
 # pumpkinpie
-[![Stories in Ready](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=ready&title=Dogland)](http://waffle.io/kellihsf/pumpkinpie)
 [![Stories in In Progress](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=In Progress&title=In Progress)](http://waffle.io/kellihsf/pumpkinpie)
 [![Stories in Review](https://badge.waffle.io/kellihsf/pumpkinpie.svg?label=review&title=review)](http://waffle.io/kellihsf/pumpkinpie)
 ![badge](https://img.shields.io/waffle/label/kellihsf/pumpkinpie/in%20progress.svg)
